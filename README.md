@@ -2,10 +2,10 @@
 A signup page where the signup data can be posted to Mailchimp servers and hosted on any platform.
 
 ## Tech Stack:
-1.HTML</br>
-2.CSS</br>
-3.JavaScript</br>
-2. NodeJs/ExpressJs
+1. HTML
+2. CSS
+3. JavaScript
+4. NodeJs/ExpressJs
 
 ## Installation
 1. Clone the repo _Or_ Run `git pull origin master` if already cloned.
